@@ -1,0 +1,31 @@
+.prod{
+    margin-top: 20px;
+    margin-right: 5px;
+    margin-left: 5px;
+    padding-top: 10px;
+    background-color: #DCDCDC;
+    border-radius: 8px;
+  }
+  
+.tet{
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 12px;
+    line-height: 14px;
+    /* identical to box height */
+  
+    text-align: center;
+  
+    color: #000000;
+}
+.title{
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 14px;
+    line-height: 16px;
+    text-align: center;
+  
+    color: #000000;
+  }
